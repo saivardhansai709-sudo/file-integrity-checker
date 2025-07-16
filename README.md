@@ -1,13 +1,21 @@
-# File Integrity Checker
+# FILE-INTEGRITY-CHECKER
 
-## Description
-This project is a File Integrity Checker built in Python as part of the CODTECH internship task.
+"COMPANY": CODETECH IT SOLUTIONS 
 
-## Features
-- Calculates SHA-256 hashes for all files in a folder.
-- Saves hashes to a JSON file.
-- Compares current file hashes with saved hashes to detect changes or missing files.
+"NAME": DONGRI SHAIKSHAVALI
 
-## How to Run
-1. Run the Python script:
+"INTETRN ID": CT06DF2511
+
+"DOMAIN": CYBER SECURITY AND ETHICAL HACKING 
+
+"DURATION":6 WEEKS
+
+"MENTOR": NEELA SANTHOSH 
+
+
+FILE INTEGRITY CECKER IS USED FOR TOOLS IS PYTHON AND VSCODE AND KALI.ORG AND QUICKREY
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/fb7e3912-6dcd-4d45-8734-7eba95b3e9d9
 
